@@ -34,5 +34,4 @@ Every lesson in the textbook is structured as an independent CCS project.
 * [x] **Chapter 13: Switching to C** *(Data types, standard TI headers, mixed C/ASM concepts)*
 * [ ] **Chapter 14: Digital I/O & Timers in C** *(Blinky in C, Timer_A configurations, PWM generation)*
 * [ ] **Chapter 15: Serial Communication** *(UART terminal Echo, SPI sensor interfacing, I2C protocol)*
-* [ ] **Chapter 16: Analog-to-Digital Converter (ADC)** *(Sampling internal temperature, pot sensors, single/sequence conversions)*
-* [ ] **Chapter 17: Energy Optimization** *(Configuring the Clock System (BCS) and utilizing Low-Power Modes (LPM0-LPM4))*
+
