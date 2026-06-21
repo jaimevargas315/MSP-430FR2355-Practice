@@ -456,6 +456,33 @@
                 "name": "C_Timers_SMCLK_Overflow_Div4",
                 "resourceId": "/C_Timers_SMCLK_Overflow_Div4"
             }
+        },
+        {
+            "name": "C_Timers_PWM",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "C_Timers_PWM",
+                "resourceId": "/C_Timers_PWM"
+            }
+        },
+        {
+            "name": "C_Timers_Capture_Compare",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "C_Timers_Capture_Compare",
+                "resourceId": "/C_Timers_Capture_Compare"
+            }
+        },
+        {
+            "name": "C_UART_Tx1_rate_115200",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "C_UART_Tx1_rate_115200",
+                "resourceId": "/C_UART_Tx1_rate_115200"
+            }
         }
     ]
 }
