@@ -25,11 +25,13 @@ Every lesson in the textbook is structured as an independent CCS project.
 * [x] **Chapter 07: Data Manipulation Instructions** *(Arithmetic, Logic, Shifting, Rotations)*
 * [x] **Chapter 08: Program Flow Instructions** *(Unconditional/Conditional Jumps, Loops, Branching)*
 * [x] **Chapter 09: Digital I/O in Assembly** *(Configuring PxDIR, PxOUT, PxIN registers)*
-* [ ] **Chapter 10: The Stack & Subroutines** *(Push/Pop operations, passing arguments, `CALL`/`RET`)*
-* [ ] **Chapter 11: Interrupts in Assembly** *(Interrupt Vectors, ISRs, edge-triggering switches)*
+* [x] **Chapter 10: The Stack & Subroutines** *(Push/Pop operations, passing arguments, `CALL`/`RET`)*
+* [x] **Chapter 11: Interrupts in Assembly** *(Interrupt Vectors, ISRs, edge-triggering switches)*
+* [x] **Chapter 12: Introduction to Timers** *(Timer Overflows, Compares, Captures, and PWM)*
+
 
 ###  Part 2: Embedded C & Hardware Peripherals (Modules 13-17)
-* [ ] **Chapter 13: Switching to C** *(Data types, standard TI headers, mixed C/ASM concepts)*
+* [x] **Chapter 13: Switching to C** *(Data types, standard TI headers, mixed C/ASM concepts)*
 * [ ] **Chapter 14: Digital I/O & Timers in C** *(Blinky in C, Timer_A configurations, PWM generation)*
 * [ ] **Chapter 15: Serial Communication** *(UART terminal Echo, SPI sensor interfacing, I2C protocol)*
 * [ ] **Chapter 16: Analog-to-Digital Converter (ADC)** *(Sampling internal temperature, pot sensors, single/sequence conversions)*
